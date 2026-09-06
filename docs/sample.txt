@@ -1,0 +1,7 @@
+ChromaDB is an open-source AI-native vector database designed to store, manage, and query embeddings. It helps developers build Search, Retrieval-Augmented Generation (RAG), and memory systems for Large Language Models (LLMs).
+
+Ollama is an open-source tool that allows users to run local language models like Llama 3.2, Mistral, and Gemma directly on their personal hardware.
+
+FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints.
+
+Streamlit is an open-source Python library that lets developers create interactive web applications for machine learning and data science projects quickly.
