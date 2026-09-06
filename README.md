@@ -26,7 +26,6 @@ A containerized Retrieval-Augmented Generation (RAG) system built with FastAPI, 
    Streamlit UI: http://localhost:8501
    FastAPI Docs: http://localhost:8000/docs
 
-# Full Containerized RAG Stack
 
 ![CI Pipeline](https://github.com/mmsidi-us/Full-Containerized-Stack/actions/workflows/ci.yml/badge.svg)
 
