@@ -1,4 +1,4 @@
-# Full-Containerized RAG Stack
+# Full Containerized RAG Stack
 
 A containerized Retrieval-Augmented Generation (RAG) system built with FastAPI, Streamlit, ChromaDB, and Ollama.
 
